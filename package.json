@@ -6,11 +6,11 @@
   "private": false,
   "repository": {
     "type": "git",
-    "url": "https://github.com/mrvautin/adminmongo"
+    "url": "https://github.com/lula/adminmongo"
   },
   "main": "electron.js",
   "bugs": {
-    "url": "https://github.com/mrvautin/adminmongo/issues"
+    "url": "https://github.com/lula/adminmongo/issues"
   },
   "scripts": {
     "start": "node app.js",
