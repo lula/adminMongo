@@ -1,1 +1,8 @@
-{}
+{
+  "connections": {
+    "localhost": {
+      "connection_string": "mongodb://localhost:27017/gdpr-boarding-smv",
+      "connection_options": {}
+    }
+  }
+}
